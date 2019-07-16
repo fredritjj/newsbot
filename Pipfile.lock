@@ -22,7 +22,7 @@
                 "sha256:398a3db6d61899d25fd4a06c6ca12051b0ce171d705decd7ed5511517b4bb93d"
             ],
             "index": "pypi",
-            "version": "==2.7.0"
+            "version": "==2.20.0"
         },
         "telebot": {
             "hashes": [
