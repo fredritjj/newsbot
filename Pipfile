@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 telebot = "*"
-requests = "*"
+requests = "2.20.0"
 
 [requires]
 python_version = "3.7"
